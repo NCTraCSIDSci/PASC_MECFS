@@ -19,5 +19,8 @@ The separate file, Model.ipynb, is a code file curated for sharing purposes that
 ## Authors
 Tomas McIntee, John Powers, Abhishek Bhatia 
 
-## Support
 
+## Support
+This work was funded by the RECOVER Initiative (OT2HL161847–01). The analyses described in this manuscript were conducted with data or tools accessed through the NCATS N3C Data Enclave (https://covid.cd2h.org) and N3C Attribution & Publication Policy v 1.2-2020-08-25b supported by NCATS U24 TR002306, Axle Informatics Subcontract: NCATS-P00438-B, and by the RECOVER Initiative (OT2HL161847–01). This content is solely the responsibility of the authors and does not necessarily represent the official views of the RECOVER Program, the NIH, or other funders.  
+
+The project described was supported by the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number UM1TR004406. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH. 
